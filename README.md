@@ -4,4 +4,5 @@ Aspiring Data Scientist with a BSc in Mathematics, BSc in Computer Science, MSc 
 ☑️ Bachelor of Science in Computer Science
 ☑️ Bachelor of Science in Mathematics
 ☑️ Master of Science in Applied Mathematics
+☑️ Graduate coursework in analytics and data science
 
